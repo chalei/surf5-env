@@ -1,3 +1,2 @@
 # surf5-env
-surf5 submission
- will be updated 
+Code still not optimized at the moment. Will be updated later
